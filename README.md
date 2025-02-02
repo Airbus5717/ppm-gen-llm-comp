@@ -29,12 +29,6 @@ The project was initiated to compare how different LLMs approach the same progra
    The program will generate a PPM file containing the rendered 3D raytracing scene.
 
 ## Comparison Goals
-
-- **Performance**: Analyze how each implementation performs under the same hardware constraints.
-- **Coding Style**: Explore different programming approaches and design decisions made by each LLM.
-- **Optimization**: Evaluate the techniques each model used to optimize for an Intel i9 CPU.
-
-Feel free to explore each script and share your observations or improvements!
-
+    To see the results
 ---
 
