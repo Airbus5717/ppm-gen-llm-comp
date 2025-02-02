@@ -1,0 +1,1 @@
+Generate C code for a 3D raytracing scene that outputs to a PPM file, optimized specifically for an Intel i9 CPU.
