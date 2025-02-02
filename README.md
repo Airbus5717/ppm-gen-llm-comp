@@ -2,9 +2,12 @@
 
 This repository contains four distinct C implementations of a 3D raytracing scene generator, each optimized specifically for the Intel i9 CPU and designed to output the result as a PPM file. These implementations were generated using four different large language models (LLMs):
 
-## Overview
+## The Prompt 
 
-The project was initiated to compare how different LLMs approach the same programming challenge. Each script demonstrates unique coding styles, optimization techniques, and problem-solving strategies as interpreted by its respective model.
+    Generate C code for a 3D raytracing scene that outputs to a PPM file, optimized specifically for an Intel i9 CPU.
+
+
+
 
 ## What's Inside
 
